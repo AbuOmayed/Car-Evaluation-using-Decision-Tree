@@ -29,7 +29,7 @@ The decision tree classifier achieved approximately **78% accuracy** in predicti
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/car-evaluation-decision-tree.git
+git clone https://github.com/AbuOmayed/car-evaluation-decision-tree.git
 cd car-evaluation-decision-tree
 pip install -r requirements.txt
 jupyter notebook notebooks/car_evaluation_decision_tree.ipynb
